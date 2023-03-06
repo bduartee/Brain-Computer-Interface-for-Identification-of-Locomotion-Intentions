@@ -12,4 +12,5 @@ obtain a cleaner and more reliable signal for the classification. For this signa
 ![image](https://user-images.githubusercontent.com/94623508/223187049-c9649ce3-2818-4bf1-8c1b-8187078df4c4.png)
 
 The results are:
+
 ![image](https://user-images.githubusercontent.com/94623508/223186728-1147ccd8-59d6-49f6-8df4-457806af3cc8.png)
